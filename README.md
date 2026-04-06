@@ -35,6 +35,5 @@ When an employee visits the repair site, they must undergo a strict evidence col
 *   **External APIs**: OpenStreetMap (Nominatim), Google Gemini GenAI API
 
 ## ⚙️ How to Run
-1. Navigate to the `backend/` directory, run `npm install`, and start the backend using `npm start` (Runs securely on Port 5000).
+1. Navigate to the `backend/` directory, run `npm install`, and start the backend using `npm start`
 2. Navigate to the root directory, create a `.env.local` containing your `GEMINI_API_KEY`, and run `npm run dev`.
-3. Open `http://localhost:3000` or your local LAN IP to test.
